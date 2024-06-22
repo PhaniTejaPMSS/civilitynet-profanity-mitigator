@@ -49,7 +49,8 @@ To use the system, simply run the Jupyter Notebook after installing the necessar
 
 ## Interface
 
-![CivilityNet](https://github.com/PhaniTejaPMSS/civilitynet-profanity-mitigator/assets/109794469/6fb8ab33-0a41-40a6-951c-917ef83fbbdb)
+![CivilityNet](https://github.com/PhaniTejaPMSS/civilitynet-profanity-mitigator/assets/109794469/71a1d7fe-d730-49a8-bbf4-a976e4a17eb0)
+
 
 ## Limitations
 
